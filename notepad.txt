@@ -1,0 +1,6 @@
+  <repositories>
+        <repository>
+            <id>my-internal-site</id>
+            <url>https://packages.atlassian.com/maven-atlassian-external</url>
+        </repository>
+    </repositories>
